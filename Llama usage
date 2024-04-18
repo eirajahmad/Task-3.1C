@@ -22,3 +22,7 @@ With LLMs, quiz apps can easily incorporate multilingual support, making them ac
 
 Conclusion
 The integration of LLMs like Llama 2 into quiz apps represents a significant advancement in educational technology. These models can transform static apps into dynamic learning platforms that offer personalized, interactive, and inclusive educational experiences. By utilizing LLMs, developers can create apps that not only test knowledge but also foster understanding and retention through sophisticated adaptive learning techniques. In the future, as LLM technology continues to evolve, its integration into educational applications is likely to become the standard, setting new benchmarks for what educational tools can achieve.
+
+References
+1.V. Gudivada and Z. Rahman, "A review of current trends, techniques, and challenges in large language models (LLMs)," Appl. Sci., vol. 14, no. 5, Art. no. 2074, Mar. 2024. [Online]. Available: https://www.mdpi.com/2076-3417/14/5/2074. [Accessed: 18 Apr. 2024].
+2.S. Hillier and S. Beale, "ChatGPT has entered the classroom: how LLMs could transform education," Nat. Rev. Neurosci., 2023. [Online]. Available: https://www.nature.com/articles/d41586-023-03507-3. [Accessed: 18 Apr. 2024].
